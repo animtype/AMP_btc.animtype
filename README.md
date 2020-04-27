@@ -11,7 +11,7 @@ PHP with Fat-free-framework for creating templates for pages, routing to proper 
 AMP framework for images, slideshows, sharers and notifications 
 
 # Validation
-animtype.com web page is 
+btc.animtype.com web page is 
 1. fully validated AMP page
 2. mobile friendly page.
 3. page has 100/100 score on page speed index 
