@@ -523,7 +523,25 @@
 			"file": "/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
 			"settings":
 			{
-				"buffer_size": 2043,
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/amp-layout.php",
+			"settings":
+			{
+				"buffer_size": 3791,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/description.php",
+			"settings":
+			{
+				"buffer_size": 2290,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -715,7 +733,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -729,6 +747,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"deflation",
+			"inflation",
+			"inf",
 			"\">",
 			"analytics"
 		],
@@ -748,7 +769,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -757,15 +778,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2043,
+						"buffer_size": 2143,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								79,
+								81
 							]
 						],
 						"settings":
@@ -773,6 +794,64 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/amp-layout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2699,
+								2708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/description.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1677,
+								1677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
