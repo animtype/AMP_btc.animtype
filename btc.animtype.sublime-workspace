@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
 				"tra",
 				"transition\tproperty"
 			],
@@ -90,10 +98,6 @@
 			[
 				"pla",
 				"playMusic\tmethod"
-			],
-			[
-				"co",
-				"content"
 			],
 			[
 				"wid",
@@ -186,10 +190,6 @@
 			[
 				"se",
 				"setStorageData\tmethod"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"setti",
@@ -520,46 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "app/description.php",
+			"file": "/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
 			"settings":
 			{
-				"buffer_size": 2308,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/amp-layout.php",
-			"settings":
-			{
-				"buffer_size": 3798,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/css/page.css",
-			"settings":
-			{
-				"buffer_size": 4745,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 1524,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/classes/WebPage.php",
-			"settings":
-			{
-				"buffer_size": 496,
+				"buffer_size": 2043,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -620,13 +584,17 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/github/AMP-btc.animtype/.htaccess",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/WebPage.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/index.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/css/page.css",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-legal.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-layout.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/description.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/.htaccess",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/lib/code.css",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/Dbg.php",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/DetectBots.php",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/MinifyOutput.php",
-		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/WebPage.php",
 		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_general.js",
 		"/V/ed-files.citadela.si/players/live/css/toolbar.scss",
 		"/V/ed-files.citadela.si/players/live/css/mobile_toolbar.scss",
@@ -743,11 +711,7 @@
 		"/C/xampp/htdocs/angular-amoeba/tsconfig.app.json",
 		"/C/xampp/htdocs/angular-amoeba/src/app/app.component.html",
 		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/blob/blob.component.html",
-		"/C/xampp/htdocs/angular-amoeba/src/app/grid/grid.component.scss",
-		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/css/general.css",
-		"/C/xampp/htdocs/angular-amoeba/src/app/popup/popup.component.ts",
-		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/css/page.css",
-		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/amoeba.component.scss"
+		"/C/xampp/htdocs/angular-amoeba/src/app/grid/grid.component.scss"
 	],
 	"find":
 	{
@@ -789,133 +753,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "app/description.php",
+					"file": "/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2308,
+						"buffer_size": 2043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1685,
-								1685
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/amp-layout.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3798,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2782,
-								2782
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 480.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/css/page.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								415,
-								421
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1524,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								388,
-								388
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 80.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/classes/WebPage.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								383,
-								383
+								0,
+								0
 							]
 						],
 						"settings":
@@ -928,7 +778,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

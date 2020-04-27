@@ -28,7 +28,7 @@
 
 		<section class="perspective">
 			<h1>BITCOIN halving countdown</h1>
-			<h2>Monetary Debasement by Inflation</h2>
+			<h2>Bitcoin was designed as a deflationary currency.</h2>
 			<amp-date-countdown
 			  timestamp-seconds="<?php echo $timestamp; ?>"
 			  layout="responsive"
@@ -47,7 +47,7 @@
 			<br><br>
 			Therefore, in most markets, lower BTC supply with steady demand usually leads to higher prices. Should we experience something similar to this year halving? What do you think?
 			<br>
-			#btc, #inflation, #bitcoin, #halving
+			#btc, #deflation, #bitcoin, #halving
 			<br><br>
 			<small>Due date: <?php echo $dateString; ?></small>
 		</h3>
