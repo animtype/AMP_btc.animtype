@@ -47,10 +47,9 @@ We do not accept  any responsibility for any losses incurred  by following our a
 <li>We cannot be held responsible for any losses.</li>
 <li>We cannot cover any losses you might have</li>
 <li>It is up to you to do due diligence on services in our articles, ads, and sponsored stories if you chose to use them.</li>
-<li>Content on this page, or any other sub-pages, are not paid for or ordered by any 3rd party web pages. Links  to other web pages might have an affiliate query attached.</li>
 </p>
 
-<p>All artworks found on this page have been produced especially for anim.tech unless stated otherwise.</p>
+<p>Content on this page, or any other sub-pages, are not paid for or ordered by any 3rd party web pages. Links to other web pages might have an affiliate query attached. All artworks found on this page have been produced by Animtype unless stated otherwise.</p>
 
 
 

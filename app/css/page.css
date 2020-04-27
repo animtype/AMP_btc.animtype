@@ -17,10 +17,16 @@ html, body {
 body {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	font-size: 14px;
-	background: #5827d1; 
-	background: -moz-radial-gradient(center, ellipse cover,  #a78bf2 0%, #5827d1 50%, #3e0eb8 100%); /* FF3.6-15 */
-	background: -webkit-radial-gradient(center, ellipse cover,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%); /* Chrome10-25,Safari5.1-6 */
-	background: radial-gradient(ellipse at center,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	/*
+	background: #014bb1; 
+	background: -moz-radial-gradient(center, ellipse cover,  #a78bf2 0%, #5827d1 50%, #3e0eb8 100%);
+	background: -webkit-radial-gradient(center, ellipse cover,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%);
+	background: radial-gradient(ellipse at center,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%);
+	*/
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 }
 
 
@@ -35,7 +41,7 @@ main {
 	margin: 5em auto 1em auto;
 }
 h1,h2,h3,h4 { 
-	color: #f7d5d3;
+	color: #140131;
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
@@ -136,7 +142,7 @@ section.perspective .counter span {
 	position: relative;
 	background: #140131;
 	white-space: nowrap;
-	margin: 0.5em 0.1em;
+	margin: 0.3em 0.04em;
 	text-align: justify-all;
 	display: inline-flex;
 	padding: 0.2em 0.3em;
@@ -148,14 +154,14 @@ section.perspective .counter span {
 	content: " ";
 	position: absolute;
 	bottom: 0.2em;
-	font-size: 0.2em;
+	font-size: 0.25em;
 	width: 70%;
 	text-align: center;
 	color: #9870f4;
 }
 .counter span.d::after { content: "days"; }
-.counter span.m::after { content: "hours"; }
-.counter span.h::after { content: "minutes"; }
+.counter span.h::after { content: "hours"; }
+.counter span.m::after { content: "minutes"; }
 .counter span.s::after { content: "seconds"; }
 
 @media (max-width: 600px) {

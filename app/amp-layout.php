@@ -19,7 +19,7 @@
 <?php
 	// date in UTC
 	// 12 May 2020 11:09:54 
-	$dateString = '12 May 2020 10:12:45 UTC';
+	$dateString = '12 May 2020 10:15:44 UTC';
 	$timestamp = strtotime($dateString);
 
 ?>
@@ -45,15 +45,13 @@
 		<h3>
 			The Bitcoin halving decreases the number of new bitcoins generated per block. As of now, the block reward is 12.5 coins per block and will fall to 6.25 coins per block. This means the supply of new bitcoins is lower. 
 			<br><br>
-			Therefore, in most markets, by lower BTC supply with steady demand usually leads to higher prices. Should we experience something similar to this year halving? What do you think?
+			Therefore, in most markets, lower BTC supply with steady demand usually leads to higher prices. Should we experience something similar to this year halving? What do you think?
 			<br>
 			#btc, #inflation, #bitcoin, #halving
 			<br><br>
 			<small>Due date: <?php echo $dateString; ?></small>
 		</h3>
-		<a href="https://anim.tech/blog/buy-bitcoins" class="button buy">How to buy Bitcoins with a Credit Card</a>
-		<br>
-		<small> [Buy BTC with MasterCard or Visa] </small>
+		<a title="buy BTC with MasterCard or Visa" href="https://anim.tech/blog/buy-bitcoins" class="button buy">How to buy Bitcoins with a Credit Card</a>
 		<br>
 	</main>
 
