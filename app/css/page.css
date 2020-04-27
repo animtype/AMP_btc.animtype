@@ -1,0 +1,184 @@
+	* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+*:focus {
+    outline: none;
+}
+.noHover{
+    pointer-events: none;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 14px;
+	background: #5827d1; 
+	background: -moz-radial-gradient(center, ellipse cover,  #a78bf2 0%, #5827d1 50%, #3e0eb8 100%); /* FF3.6-15 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%); /* Chrome10-25,Safari5.1-6 */
+	background: radial-gradient(ellipse at center,  #a78bf2 0%,#5827d1 50%,#3e0eb8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+
+
+main, footer, header, section, nav {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+main {
+	margin: 5em auto 1em auto;
+}
+h1,h2,h3,h4 { 
+	color: #f7d5d3;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0.1em 1em 0.4em 1em;
+    line-height: 1.2em;
+}
+h1 { font-size: 4em; font-weight: 200; }
+h2 { font-size: 2em; font-weight: 200; }
+h3 { font-size: 1.4em; font-weight: 400; margin-top: 2em; color: #fff; }
+
+p,li { 
+	color: rgba(255,255,255,0.8);
+    width: 100%;
+    max-width: 700px;
+    margin: 1em auto;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+a.button.buy {
+	margin: 2em 0em;
+	background: #6522c9;
+	color: #fff;
+}
+p.small { font-size: 1em; text-shadow: 0; color: #ccc; }
+.button,
+button {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	border-radius: 5px;
+	border: 0;
+	border-collapse: collapse;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: 400;
+	font-size: 1em;
+	height: 2.85em;
+	line-height: 2.95em;
+	padding: 0 1.5em;
+	text-align: center;
+	text-decoration: none;
+	white-space: nowrap;
+	width: 100%;
+	max-width: 320px;
+	box-shadow: 0 -5px 10px rgba(51,0,102,0.4);
+	-webkit-box-reflect: below 3px -webkit-gradient(linear,left top,left bottom,from(transparent),to(rgba(250,250,250,0.3)));
+	color: #000;
+}
+.white { color: #fff; }
+nav .button.small,
+nav button.small {
+	font-size: 0.8em;
+	width: auto;
+	background-color: #E5989B;
+	color: #000;
+}
+a.button:hover,
+nav button:hover {
+	background-color: #FFB4A2;
+}
+
+
+section.perspective {
+	-webkit-perspective: 700px;
+	perspective: 700px;
+	margin: 1em auto;
+	-webkit-transition: -webkit-perspective 1s;
+	transition: perspective 1s;
+}
+
+section.perspective:hover {
+	-webkit-perspective: 500px;	
+	perspective: 500px;	
+}
+section.perspective h1,
+section.perspective h2 {
+	-webkit-transform: rotateY(20deg) rotateX(10deg) translateX(30px);	
+	transform: rotateY(20deg) rotateX(10deg) translateX(30px);	
+}
+section.perspective .counter {
+	-webkit-transform: rotateY(20deg) rotateX(10deg) translateX(80px);
+	transform: rotateY(20deg) rotateX(10deg) translateX(80px);
+	min-height: 400px;
+	font-size: 7em;
+	font-weight: 200;
+	color: #f9d0cd;
+}
+
+section.perspective .counter span {
+	position: relative;
+	background: #140131;
+	white-space: nowrap;
+	margin: 0.5em 0.1em;
+	text-align: justify-all;
+	display: inline-flex;
+	padding: 0.2em 0.3em;
+	border-radius: 0.2em;
+	box-shadow: -10px 10px 20px rgba(51,0,102,0.7);
+	-webkit-box-reflect: below 3px -webkit-gradient(linear,left top,left bottom,from(transparent),to(rgba(250,250,250,0.3)));
+}
+.counter span::after {
+	content: " ";
+	position: absolute;
+	bottom: 0.2em;
+	font-size: 0.2em;
+	width: 70%;
+	text-align: center;
+	color: #9870f4;
+}
+.counter span.d::after { content: "days"; }
+.counter span.m::after { content: "hours"; }
+.counter span.h::after { content: "minutes"; }
+.counter span.s::after { content: "seconds"; }
+
+@media (max-width: 600px) {
+	body { font-size: 12px; }
+	section.perspective {
+		-webkit-perspective: 1000px;
+		perspective: 1000px;
+	}
+	section.perspective .counter {
+		-webkit-transform: rotateY(20deg) rotateX(10deg) translateX(10px);
+		transform: rotateY(20deg) rotateX(10deg) translateX(10px);
+		min-height: 400px;
+		font-size: 5em;
+		font-weight: 200;
+		color: #f9d0cd;
+	}
+	section.perspective .counter span {
+		margin: 0.2em 0.1em;
+		padding: 0.2em 0.3em;
+	}
+	section.perspective h1,
+	section.perspective h2 {
+		-webkit-transform: rotateY(20deg) rotateX(10deg) translateX(0px);
+		transform: rotateY(20deg) rotateX(10deg) translateX(0px);
+	}
+}

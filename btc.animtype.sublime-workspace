@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"v",
+				"value\tparameter"
+			],
+			[
+				"_ty",
+				"_typeContentUpdate\twarning"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"re",
+				"refreshComponents\tproperty"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"game",
+				"gameID\tproperty"
+			],
+			[
+				"u",
+				"update"
+			],
+			[
+				"swi",
+				"swipe\tlet"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"audioS",
+				"audioSNDlevels\tproperty"
+			],
+			[
+				"au",
+				"killAudioLevels\tmethod"
+			],
+			[
+				"playA",
+				"playAudioLevels\tmethod"
+			],
+			[
+				"stopAu",
+				"stopAudioLevels\tmethod"
+			],
+			[
+				"faVol",
+				"faVolumeDown\tconst"
+			],
+			[
+				"faVolume",
+				"faVolumeMute\tconst"
+			],
+			[
+				"pl",
+				"playAudioGame\tmethod"
+			],
+			[
+				"pla",
+				"playMusic\tmethod"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"curr",
+				"currentH\tparameter"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"faGrinSquint",
+				"faGrinSquintTears\tconst"
+			],
+			[
+				"faGri",
+				"faGrinSquint\tconst"
+			],
+			[
+				"po",
+				"popupCreate\tmethod"
+			],
+			[
+				"url",
+				"createUrlTree\tmethod"
+			],
+			[
+				"_r",
+				"_router\tproperty"
+			],
+			[
+				"ref",
+				"refreshID\tproperty"
+			],
+			[
+				"faArrowR",
+				"faArrowAltCircleRight\tconst"
+			],
+			[
+				"faGr",
+				"faGrinStars\tconst"
+			],
+			[
+				"faSyn",
+				"faSyncAlt\tconst"
+			],
+			[
+				"faGrint",
+				"faGrinTongueWink\tconst"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"faThumb",
+				"faThumbsUp\tconst"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"s",
+				"stars"
+			],
+			[
+				"upda",
+				"updateSinglePlayersData\tmethod"
+			],
+			[
+				"prog",
+				"progressKey\tproperty"
+			],
+			[
+				"up",
+				"updatePlayerData\tmethod"
+			],
+			[
+				"se",
+				"setStorageData\tmethod"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"setti",
+				"settings\tparameter"
+			],
+			[
+				"getS",
+				"getStorageData\tmethod"
+			],
+			[
+				"pro",
+				"progress\tlet"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"getPlayer",
+				"getPlayerData\tmethod"
+			],
+			[
+				"Re",
+				"Renderer2\talias"
+			],
+			[
+				"Play",
+				"PlayerService\talias"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-col",
+				"border-collapse"
+			],
+			[
+				"getM",
+				"getMovings\tmethod"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"r",
+				"round\tmethod"
+			],
+			[
+				"bu",
+				"bustTimeline\tproperty"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"_",
+				"_created\tproperty"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"nu",
+				"number\tkeyword"
+			],
+			[
+				"set",
+				"setScaleFactor\tmethod"
+			],
+			[
+				"to",
+				"toFixed\tmethod"
+			],
+			[
+				"upd",
+				"updateIndex\tmethod"
+			],
+			[
+				"g",
+				"gridPosition\tproperty"
+			],
+			[
+				"t",
+				"timing\tproperty"
+			],
+			[
+				"who",
+				"whoAmI\tmethod"
+			],
+			[
+				"comp",
+				"componentRef\tlet"
+			],
+			[
+				"on",
+				"OnInit\talias"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"d",
+				"data\tproperty"
+			],
+			[
+				"th",
+				"this\tkeyword"
+			],
+			[
+				"mo",
+				"movingObj\tproperty"
+			],
+			[
+				"c",
+				"createComponent\tmethod"
+			],
+			[
+				"mov",
+				"movingObj\tparameter"
+			],
+			[
+				"ViewCh",
+				"ViewChild\talias"
+			],
+			[
+				"cr",
+				"createElement\tmethod"
+			],
+			[
+				"ge",
+				"getPlayer\tmethod"
+			],
+			[
+				"remo",
+				"removeClass\tmethod"
+			],
+			[
+				"dra",
+				"dragX\tproperty"
+			],
+			[
+				"id",
+				"idObj\tproperty"
+			],
+			[
+				"rem",
+				"removeChild\tmethod"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"get",
+				"getPlayers\tmethod"
+			],
+			[
+				"st",
+				"stageHeight"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"si",
+				"simulateAjax"
+			],
+			[
+				"sta",
+				"stageWidth"
+			],
+			[
+				"counterO",
+				"counterObjFoe"
+			],
+			[
+				"fr",
+				"friendCounter"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"sho",
+				"showCounter"
+			],
+			[
+				"target",
+				"targetID"
+			],
+			[
+				"hit",
+				"hitTest"
+			],
+			[
+				"drag",
+				"dragObj"
+			],
+			[
+				"delta",
+				"deltaX"
+			],
+			[
+				"add",
+				"addDragCheck"
+			],
+			[
+				"wh",
+				"whois"
+			],
+			[
+				"green",
+				"green-color"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ce",
+				"ceil"
+			],
+			[
+				"p",
+				"player1"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"bl",
+				"blur"
+			],
+			[
+				"sc",
+				"scaleX()\ttransform"
+			],
+			[
+				"scale",
+				"scale()\ttransform"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"background-po",
+				"background-position\tproperty"
+			],
+			[
+				"fi",
+				"fill\tproperty"
+			],
+			[
+				"scro",
+				"scrollToAnchor"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"lightgray"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/description.php",
+			"settings":
+			{
+				"buffer_size": 2308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/amp-layout.php",
+			"settings":
+			{
+				"buffer_size": 3798,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/page.css",
+			"settings":
+			{
+				"buffer_size": 4745,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1524,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/classes/WebPage.php",
+			"settings":
+			{
+				"buffer_size": 496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: GSAP ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: gsap",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/github/AMP-btc.animtype",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/css"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/github/AMP-btc.animtype/.htaccess",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-legal.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/lib/code.css",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/Dbg.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/DetectBots.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/MinifyOutput.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/WebPage.php",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_general.js",
+		"/V/ed-files.citadela.si/players/live/css/toolbar.scss",
+		"/V/ed-files.citadela.si/players/live/css/mobile_toolbar.scss",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_appearance.php",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_footer.php",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_menu.php",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_social.php",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_menu.scss",
+		"/V/ed-dashboard.citadela.si/application/views/contenthub2/preferences/ch_footer.js",
+		"/V/ed-files.citadela.si/players/live/js/toolbar.js",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/data.service.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/stage/stage.component.html",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/lite-player.component.html",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/toolbar/toolbar.component.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/toolbar/toolbar.component.scss",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/lite-player.component.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/stage/stage.component.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/toolbar/toolbar.component.css",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/player.service.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/player.service.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/stage/stage.component.scss",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/app.component.scss",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/lite-player.component.scss",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/app.component.css",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/stage/stage.component.css",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/lite-player/lite-player.component.css",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/app.component.html",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/app.module.ts",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/base/base.component.scss",
+		"/C/xampp/htdocs/github/Angular/ed-player/src/app/base/base.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/cell.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/game.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/game.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/app-routing.module.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/levels/levels.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/app.module.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/levels/levels.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/app.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/styles.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/index.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/app.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/intro/intro.component.ts",
+		"/C/Users/drpet/Documents/AnimTech/Racuni/2020/2020 03 marec/UPN_2001100001324.xml",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/cell.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/intro/intro.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/screenfull/package.json",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/data.service.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/levels/levels.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/app.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/popup/popup.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/popup/popup.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/dist/amoeba-cell/assets/matrixanimation.js",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/header/header.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/storage.service.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/dist/.htaccess",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/package.json",
+		"/C/xampp/htdocs/github/crypto-wallet-webapp/lib/app.js",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/ngx-swiper-wrapper/package.json",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/swiper/css/swiper.css",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/ngx-swiper-wrapper/__ivy_ngcc__/fesm2015/ngx-swiper-wrapper.js",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/tsconfig.json",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/ngx-swiper-wrapper/lib/swiper.module.d.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/ai.service.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/header/header.component.ts",
+		"/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/header/header.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/main.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/game.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/blob/blob.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/popup/popup.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/.gitignore",
+		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/view/home.php",
+		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/json/homepage.json",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/storage.service.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/data.service.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/game.component.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/redirector/redirector.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/blob/blob.component.html",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/blob/blob.component.scss",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/@fortawesome/free-solid-svg-icons/faYenSign.js",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/assets/matrixanimation.js",
+		"/C/xampp/htdocs/github/crypto-wallet-webapp/v2/lib/app.js",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/angular.json",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/cell.component.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/blob/blob.component.spec.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/cell/cell.component.scss",
+		"/C/xampp/htdocs/angular-amoeba/src/app/app.module.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/app/levels/levels.component.ts",
+		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/blob/blob.component.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/app/app-routing.module.ts",
+		"/C/xampp/htdocs/angular-amoeba/dist/angular-amoeba/runtime-es5.edb2fcf2778e7bf1d426.js",
+		"/C/xampp/htdocs/angular-amoeba/dist/angular-amoeba/3rdpartylicenses.txt",
+		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/amoeba.component.ts",
+		"/C/xampp/htdocs/angular-amoeba/dist/angular-amoeba/main-es5.f8a7d01afcf73942a3fd.js",
+		"/C/xampp/htdocs/angular-amoeba/src/app/levels/levels.component.scss",
+		"/C/xampp/htdocs/angular-amoeba/src/app/levels/levels.component.html",
+		"/C/xampp/htdocs/angular-amoeba/src/app/grid/grid.component.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/app/player.service.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/app/grid/grid.component.html",
+		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/amoeba.component.html",
+		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/json/autocomplete-stars.json",
+		"/C/xampp/htdocs/angular-amoeba/src/styles.scss",
+		"/C/xampp/htdocs/angular-amoeba/tsconfig.json",
+		"/C/xampp/htdocs/angular-amoeba/src/app/gamelevel.json",
+		"/C/xampp/htdocs/angular-amoeba/src/app/ai.service.ts",
+		"/C/xampp/htdocs/angular-amoeba/angular.json",
+		"/C/xampp/htdocs/angular-amoeba/src/app/levels/gamelevels.json",
+		"/C/xampp/htdocs/angular-amoeba/src/app/player.service.spec.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/index.html",
+		"/C/xampp/htdocs/angular-amoeba/src/main.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/app/app.component.ts",
+		"/C/xampp/htdocs/angular-amoeba/src/assets/matrixanimation.js",
+		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/blob/blob.component.ts",
+		"/C/xampp/htdocs/angular-amoeba/tsconfig.app.json",
+		"/C/xampp/htdocs/angular-amoeba/src/app/app.component.html",
+		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/blob/blob.component.html",
+		"/C/xampp/htdocs/angular-amoeba/src/app/grid/grid.component.scss",
+		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/css/general.css",
+		"/C/xampp/htdocs/angular-amoeba/src/app/popup/popup.component.ts",
+		"/C/xampp/htdocs/github/ADLT-wet-clips-hub/app/css/page.css",
+		"/C/xampp/htdocs/angular-amoeba/src/app/amoeba/amoeba.component.scss"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">",
+			"analytics"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/description.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/amp-layout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2782,
+								2782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/css/page.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 80.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/classes/WebPage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "btc.animtype.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\prnhub\\WetClipsHub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 453.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
