@@ -19,7 +19,10 @@
 <?php
 	// date in UTC
 	// 12 May 2020 11:09:54 
-	$dateString = '12 May 2020 10:15:44 UTC';
+	// 12 May 2020 10:53:09 UTC
+	// 11 May 2020 19:49:19
+	// https://www.bitcoinblockhalf.com/?__cf_chl_jschl_tk__=f2f1e3a21d0dab9d8eada609b27c389a9e5bbb17-1589206155-0-AS_mzmYvU3LmOPvJthlBBbM0Yuuq_unRVMYjYkwf2UmvhMEDy-EaqJgC10bUHZiJytI7BqHZlz54xpIX4wMefDJBQw3sK1WEYongpttltmuEl77WpkLym_gkVuf61cnBQhTPez26DtxzzsLHI409tmDcFezuj9Bnv82LGju10RwJTv5jc4IAs6txtpipc_sHT8xPjoA2bzVX6sbMnaNFU6hEKTUg2dTpkmQubJHAq-HwGQfPSWs27CYRp1iJG_PpDAglsyBkpFG1JfCSO4pVj-4
+	$dateString = '09 May 2024 03:48:26 UTC';
 	$timestamp = strtotime($dateString);
 
 ?>
@@ -27,8 +30,7 @@
 		
 
 		<section class="perspective">
-			<h1>BITCOIN halving countdown</h1>
-			<h2>Bitcoin was designed as a deflationary currency.</h2>
+			<h1>BITCOIN halving countdown</h1>			
 			<amp-date-countdown
 			  timestamp-seconds="<?php echo $timestamp; ?>"
 			  layout="responsive"
@@ -40,10 +42,11 @@
 			    <span class="d">{{dd}}</span><span class="h">{{hh}}</span><span class="m">{{mm}}</span><span class="s">{{ss}}</span>
 			  </template>
 			</amp-date-countdown>
-
+			<h2>Bitcoin was designed as a deflationary currency.</h2>
 		</section>
+
 		<h3>
-			The Bitcoin halving decreases the number of new bitcoins generated per block. As of now, the block reward is 12.5 coins per block and will fall to 6.25 coins per block. This means the supply of new bitcoins is lower. 
+			The Bitcoin halving decreases the number of new bitcoins generated per block. As of now, the block reward is 6.25 coins per block and will decrease to 3.125 coins per block post halving.. This means the supply of new bitcoins is lower. 
 			<br><br>
 			Therefore, in most markets, lower BTC supply with steady demand usually leads to higher prices. Should we experience something similar to this year halving? What do you think?
 			<br>

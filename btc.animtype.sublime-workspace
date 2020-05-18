@@ -520,28 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
-			"settings":
-			{
-				"buffer_size": 2143,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/amp-layout.php",
 			"settings":
 			{
-				"buffer_size": 3791,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/description.php",
-			"settings":
-			{
-				"buffer_size": 2290,
+				"buffer_size": 3823,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -602,12 +584,13 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/WebPage.php",
-		"/C/xampp/htdocs/github/AMP-btc.animtype/index.php",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/css/page.css",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-legal.php",
-		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-layout.php",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/description.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/amp-layout.php",
+		"/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/WebPage.php",
+		"/C/xampp/htdocs/github/AMP-btc.animtype/index.php",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/.htaccess",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/lib/code.css",
 		"/C/xampp/htdocs/github/AMP-btc.animtype/app/classes/Dbg.php",
@@ -677,7 +660,6 @@
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/node_modules/ngx-swiper-wrapper/lib/swiper.module.d.ts",
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/ai.service.ts",
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/header/header.component.ts",
-		"/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/header/header.component.scss",
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/main.ts",
 		"/C/xampp/htdocs/github/Angular/amoeba-cell/src/app/game/game.component.scss",
@@ -733,7 +715,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -747,6 +729,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p",
 			"deflation",
 			"inflation",
 			"inf",
@@ -769,54 +752,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/github/AMP_anim-tech/ui/layout.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								81
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app/amp-layout.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3791,
+						"buffer_size": 3823,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2699,
-								2708
+								1681,
+								1681
 							]
 						],
 						"settings":
@@ -825,36 +778,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 320.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/description.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1677,
-								1677
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 400.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -930,7 +854,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\prnhub\\WetClipsHub.sublime-project"
+				"C:\\Program Files\\Sublime Text 3\\ED-contenthub2-workflow.sublime-project"
 			]
 		],
 		"width": 380.0

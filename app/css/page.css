@@ -65,7 +65,7 @@ p,li {
 }
 a.button.buy {
 	margin: 2em 0em;
-	background: #6522c9;
+	background: #140131;
 	color: #fff;
 }
 p.small { font-size: 1em; text-shadow: 0; color: #ccc; }
@@ -99,6 +99,9 @@ button {
 	color: #000;
 }
 .white { color: #fff; }
+.dark p,
+.dark li
+ { color: #140131;; }
 nav .button.small,
 nav button.small {
 	font-size: 0.8em;
